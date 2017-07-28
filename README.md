@@ -5,7 +5,8 @@
 * 用例要求：测试方法必须为类的实例方法，可加参数。
 * 有4个特殊方法，set_up/set_up_class/tear_down/tear_down_class
 * 执行测试
-
+```
     git clone git@code.csdn.net:zbwill/test_engine.git
     cd test_engine
     python test_emgine.py
+```
