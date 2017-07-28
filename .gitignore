@@ -1,0 +1,10 @@
+*.py[cod]
+venv
+.DS_Store
+.project
+.pydevproject
+.settings
+.idea
+__pycache__
+report/*
+!report/.gitkeep
